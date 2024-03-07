@@ -15,11 +15,11 @@ This Spring Boot application provides a simple interface to display the current 
 ### Setup
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/weather-app.git
+    git clone https://github.com/abdelmottalib/weather-api-spring-boot
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd weather-app
+    cd weather-api-spring-boot
     ```
 3. **Build the project:**
     ```bash
