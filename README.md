@@ -34,5 +34,5 @@ This Spring Boot application provides a simple interface to display the current 
 ### Configuration
 - **API Key:** To use the third-party API, obtain an API key and configure it in the `application.properties` file.
     ```properties
-    weather.api.key=your-api-key
+       api.key=your-api-key
     ```
