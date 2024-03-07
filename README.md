@@ -36,4 +36,3 @@ This Spring Boot application provides a simple interface to display the current 
     ```properties
     weather.api.key=your-api-key
     ```
-
