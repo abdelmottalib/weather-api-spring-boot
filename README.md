@@ -5,7 +5,7 @@ This Spring Boot application provides a simple interface to display the current 
 
 ## Features
 - **City-based Weather:** Users can enter the name of a city to get the current weather information.
-- **Third-Party API Integration:** The app leverages a third-party API to fetch up-to-date weather details.
+- **Third-Party API Integration:** The app leverages two third-party APIS, one that fetches the geolocation, and another that uses the geolocation to get the current weather.
 
 ## Getting Started
 ### Prerequisites
